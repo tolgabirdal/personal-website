@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Tolga Birdal
+role: Professor of Computer Vision and Machine Learning
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
