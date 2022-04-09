@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of computer vision and machine learning at Imperial College London. His research interests include 3D vision, geometric machine learning and non-Euclidean methods. 
+Tolga Birdal is a professor of computer vision and machine learning at Imperial College London. His research interests include 3D vision, geometric machine learning and non-Euclidean methods. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
